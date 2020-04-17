@@ -1,0 +1,113 @@
+body{
+    margin: 0px;
+    text-align: center;
+    width: 100%;
+    background-color: black;
+}
+h1
+{
+  display: inline-block;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+.A{
+  height: 100%;
+  padding: 0px;
+  padding-bottom: 0px;
+  background-color: #a1e6e3;
+}
+p{
+  display: inline;
+}
+.pa
+{
+  display: inline-block;
+}
+.sp
+{
+  display: inline-block;
+  padding-left: 30px;
+}
+#cloud1
+{
+  position: relative;
+  top: 10px;
+  left: 250px;
+}
+#cloud2{
+  position: relative;
+  bottom: 300px;
+  left: 100px;
+}
+#name
+{
+  display: inline-block;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  font-family: cursive;
+}
+#para1{
+  font-family: cursive,fantasy;
+}
+#profilepic{
+  width: 1px;
+  height: 1px;
+}
+.profile{
+  margin: 0px;
+  background-color: #cf7500;
+  padding: 40px;
+}
+hr{
+  margin: 0px;
+  margin-bottom: 0px;
+
+}
+#skill-row1{
+   background-color: #202040;
+}
+.skills{
+  margin: 0px;
+  background-color: #202040;
+  color: white;
+}
+#skill-row2
+{
+  background-color: black;
+  color: white;
+  padding: 20px;
+}
+img{
+  border-width: 0px;
+  margin: 0px;
+}
+.bottom-container
+{
+  color: grey;
+}
+.contact-me{
+  color: grey;
+}
+.s{
+  display: inline-block;
+  text-decoration: underline;
+  text-decoration-color: red;
+  color: #e58a8a;
+  font-size: 2em;
+}
+.png{
+  height: 20px;
+  width: 20px;
+}
+#hill
+{
+  position: relative;
+  top: 4px;
+}
+.progra{
+  padding: 20px;
+}
